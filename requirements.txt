@@ -1,0 +1,8 @@
+streamlit
+geemap
+ee
+pandas
+numpy
+matplotlib
+streamlit-folium
+rosetta
